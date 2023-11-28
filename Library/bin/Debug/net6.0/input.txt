@@ -1,0 +1,11 @@
+﻿newbook, Virágok, Szabó Bálint, Növény Kiadó, ab505484, 64, természettudományi, sok példány
+newbook, Dínók, Kettner Benedek, Ahmada Kiadó, ab506584, 128, természettudományi, ritkaság
+newbook, Versek, Kiss Benjámin, Poetic Kiadó, ab699484, 32, szépirodalmi, sok példány
+newbook, Nagyon ritka versek, Kiss Bejámin, Poetic Kiadó, ab506525, 48, szépirodalmi, ritkaság
+newbook, Lord of the Rizz: Kezdetek, Tóth Gáspár Menyhért, Vengeance Kiadó, ac899654, 512, ifjúsági, sok példány
+newbook, Lord of the Rizz: Feltámadás, Tóth Gáspár Menyhért, Vengeance Kiadó, ab899656, 1024, ifjúsági, ritkaság
+newmember, Kucsera Tamás
+newmember, Jarábik Dávid
+newmember, Csorvási Balázs
+newmember, Koltay Martin
+newmember, Mansur Mundir
